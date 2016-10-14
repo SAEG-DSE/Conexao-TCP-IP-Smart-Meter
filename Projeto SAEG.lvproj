@@ -10,7 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Cliente-SAEG.vi" Type="VI" URL="../Cliente-SAEG.vi"/>
 		<Item Name="Servidor-SAEG.vi" Type="VI" URL="../Servidor-SAEG.vi"/>
+		<Item Name="Teste de conexão.vi" Type="VI" URL="../Teste de conexão.vi"/>
 		<Item Name="Teste de processamento de dados.vi" Type="VI" URL="../Teste de processamento de dados.vi"/>
 		<Item Name="Teste de timeout do servidor.vi" Type="VI" URL="../Teste de timeout do servidor.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
